@@ -9,8 +9,7 @@ Homepage: https://github.com/LingmoOS
 
 Package: lingmo-shell-meta
 Architecture: all
-Depends: lingmo-calculator,
-         lingmo-calendar,
+Depends: lingmo-calendar,
          lingmo-compositor,
          lingmo-core,
          lingmo-dm,
