@@ -1,3 +1,9 @@
+lingmo-meta (5.0.0+lingmo5u3) unstable; urgency=medium
+
+  * Add the calculator, image viewer, clock and archive manager.
+
+ -- Lingmo OS Team <team@lingmo.org>  Sun, 02 Nov 2026 08:40:00 +0800
+
 lingmo-meta (5.0.0+lingmo5u2) unstable; urgency=medium
 
   * Initial release.

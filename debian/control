@@ -9,13 +9,17 @@ Homepage: https://github.com/LingmoOS
 
 Package: lingmo-shell-meta
 Architecture: all
-Depends: lingmo-calendar,
+Depends: lingmo-archive-manager,
+         lingmo-calculator,
+         lingmo-calendar,
+         lingmo-clock,
          lingmo-compositor,
          lingmo-core,
          lingmo-dm,
          lingmo-filemanager,
          lingmo-framework,
          lingmo-icon-theme,
+         lingmo-image-viewer,
          lingmo-qt-plugins,
          lingmo-settings,
          lingmo-system-monitor,
