@@ -1,3 +1,9 @@
+lingmo-meta (5.0.1+lingmo5u1) unstable; urgency=medium
+
+  * Add the systemicons.
+
+ -- Lingmo OS Team <team@lingmo.org>  Thu, 05 Nov 2026 02:00:00 +0800
+
 lingmo-meta (5.0.0+lingmo5u3) unstable; urgency=medium
 
   * Add the calculator, image viewer, clock and archive manager.
