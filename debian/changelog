@@ -1,6 +1,7 @@
-lingmo-meta (5.0.2+lingmo5u1) unstable; urgency=medium
+lingmo-meta (5.0.3+lingmo5u1) unstable; urgency=medium
 
   * Depend on the renamed lingmo-aurora compositor package.
+  * Include the Lingmo Aurora first-run setup application.
 
  -- Lingmo OS Team <team@lingmo.org>  Fri, 13 Nov 2026 18:00:00 +0800
 
